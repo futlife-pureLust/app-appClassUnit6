@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">appClassUnit6</string>
+    <string name="toast">預設TOAST</string>
+    <string name="totas">自定義TOTAS</string>
+    <string name="alterdialog">按鍵式ALTERDIALOG</string>
+    <string name="alterdialog2">列表式ALTERDIALOG</string>
+    <string name="alterdialog3">單選式ALTERDIALOG</string>
 </resources>
