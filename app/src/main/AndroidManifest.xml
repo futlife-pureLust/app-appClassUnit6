@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppClassUnit6">
-        <activity android:name=".MainActivity">
+        <activity android:name=".CustomeToast" />
+        <activity android:name=".MainActivity" android:label="XXXXX-第六章提示訊息練習">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
